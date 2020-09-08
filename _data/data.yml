@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mai QD
-    tagline: Student
+    tagline: Web Developer
     avatar: img.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,17 +30,20 @@ sidebar:
       - idiom: Vietnamese
         level: Professional
 
-      - idiom: 
-        level: 
+      - idiom: France
+        level: Beginner
     interests:
       - item: Reading
         link:
 
       - item: Coding
-        link:
+        link: https://github.com/MaiQD
 
       - item: Cooking
         link:
+
+      - item: Drawing
+        link: https://www.artstation.com/qdmai
 
 career-profile:
     title: Career Profile
@@ -48,7 +51,7 @@ career-profile:
       
 
 education:
-    - degree: MSc in Computer Science
+    - degree: Bachelors in Management Information Systems
       university: Thang long University 
       time: 2016 - 2020
       details: |
@@ -75,9 +78,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Web Developer
+      time: 2016 - Present
+      company: Global Solutions
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -91,32 +94,6 @@ experiences:
 
           - Bullet point
           - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
